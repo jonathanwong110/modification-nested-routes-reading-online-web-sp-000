@@ -4042,3 +4042,6 @@ Processing by AuthorsController#index as HTML
   Rendering authors/index.html.erb within layouts/application
   [1m[36mAuthor Load (0.3ms)[0m  [1m[34mSELECT "authors".* FROM "authors"[0m
   Rendered authors/index.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 1421ms (Views: 1410.2ms | ActiveRecord: 1.1ms)
+
+
